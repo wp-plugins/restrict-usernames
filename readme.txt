@@ -30,6 +30,8 @@ ERROR: This username is invalid. Please enter a valid username.
 
 NOTE: This plugin does not put any restrictions on usernames that the admin chooses for users when creating user accounts from within the WordPress admin.  This only restricts the names that users choose themselves when registering for your site.
 
+Compatible with BuddyPress as well.
+
 Links: [Plugin Homepage](http://coffee2code.com/wp-plugins/restrict-usernames/) | [Author Homepage](http://coffee2code.com)
 
 
