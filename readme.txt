@@ -4,7 +4,7 @@ Donate link: http://coffee2code.com/donate
 Tags: registration, username, signup, users, restrictions, security, privacy, coffee2code, multisite, buddypress
 License: GPLv2 or later
 Requires at least: 3.1
-Tested up to: 3.4
+Tested up to: 3.5
 Stable tag: 3.3
 Version: 3.3
 
@@ -124,8 +124,10 @@ add_filter( 'c2c_restrict_usernames-validate', 'my_restrict_usernames_check', 10
 * Re-license as GPLv2 or later (from X11)
 * Add 'License' and 'License URI' header tags to readme.txt and plugin file
 * Note compatibility through WP 3.5+
+* Update copyright date (2013)
 * Remove ending PHP close tag
-* Move screenshot into repo's assets folder
+* Create repo's WP.org assets directory
+* Move screenshot into repo's assets directory
 
 = 3.2 =
 * Add support for Multisite
